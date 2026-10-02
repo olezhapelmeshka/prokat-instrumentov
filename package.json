@@ -1,0 +1,7 @@
+{
+  "name": "prokat-instrumentov",
+  "private": true,
+  "description": "ТЗ АИС «Прокат инструментов»: сборка docx и сайта из tz.md",
+  "scripts": { "build": "node build.js" },
+  "dependencies": { "docx": "^9.0.0" }
+}
